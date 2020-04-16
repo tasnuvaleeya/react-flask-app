@@ -6,6 +6,8 @@
 .pnp.js
 .idea/
 venv/
+__pycache__
+~*.pyc
 # testing
 /coverage
 
